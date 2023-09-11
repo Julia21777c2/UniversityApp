@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.juliaa"},{"l":"com.juliaa.tests"},{"l":"com.juliaa.utils"},{"l":"models"}];updateSearchResults();

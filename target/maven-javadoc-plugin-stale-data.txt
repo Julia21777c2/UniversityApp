@@ -1,0 +1,52 @@
+@options
+@packages
+-classpath
+'C:/Users/petrg/.m2/repository/junit/junit/4.13.2/junit-4.13.2.jar;C:/Users/petrg/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar;C:/Users/petrg/.m2/repository/org/apache/logging/log4j/log4j-core/2.14.1/log4j-core-2.14.1.jar;C:/Users/petrg/.m2/repository/org/apache/logging/log4j/log4j-api/2.14.1/log4j-api-2.14.1.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'C:/UniversityApp/UniversityApp/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/UniversityApp/UniversityApp/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'UniversityApp 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'UniversityApp 1.0-SNAPSHOT API'
+com.juliaa
+com.juliaa.tests
+com.juliaa.utils
+models
+C:\Users\petrg\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar = 1694463054918
+C:\Users\petrg\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar = 1694463054931
+C:\Users\petrg\.m2\repository\org\apache\logging\log4j\log4j-core\2.14.1\log4j-core-2.14.1.jar = 1694444917881
+C:\Users\petrg\.m2\repository\org\apache\logging\log4j\log4j-api\2.14.1\log4j-api-2.14.1.jar = 1694444917766
+C:\UniversityApp\UniversityApp\src\main\java = 1694462162043
+C:\UniversityApp\UniversityApp\target\site\apidocs\allclasses-index.html = 1694463654117
+C:\UniversityApp\UniversityApp\target\site\apidocs\allpackages-index.html = 1694463654119
+C:\UniversityApp\UniversityApp\target\site\apidocs\copy.svg = 1694463654149
+C:\UniversityApp\UniversityApp\target\site\apidocs\element-list = 1694463654023
+C:\UniversityApp\UniversityApp\target\site\apidocs\help-doc.html = 1694463654143
+C:\UniversityApp\UniversityApp\target\site\apidocs\index-all.html = 1694463654134
+C:\UniversityApp\UniversityApp\target\site\apidocs\index.html = 1694463654102
+C:\UniversityApp\UniversityApp\target\site\apidocs\member-search-index.js = 1694463654124
+C:\UniversityApp\UniversityApp\target\site\apidocs\module-search-index.js = 1694463654121
+C:\UniversityApp\UniversityApp\target\site\apidocs\overview-summary.html = 1694463654138
+C:\UniversityApp\UniversityApp\target\site\apidocs\overview-tree.html = 1694463654098
+C:\UniversityApp\UniversityApp\target\site\apidocs\package-search-index.js = 1694463654122
+C:\UniversityApp\UniversityApp\target\site\apidocs\script.js = 1694463654148
+C:\UniversityApp\UniversityApp\target\site\apidocs\search-page.js = 1694463654153
+C:\UniversityApp\UniversityApp\target\site\apidocs\search.html = 1694463654136
+C:\UniversityApp\UniversityApp\target\site\apidocs\search.js = 1694463654151
+C:\UniversityApp\UniversityApp\target\site\apidocs\stylesheet.css = 1694463654147
+C:\UniversityApp\UniversityApp\target\site\apidocs\tag-search-index.js = 1694463654124
+C:\UniversityApp\UniversityApp\target\site\apidocs\type-search-index.js = 1694463654123

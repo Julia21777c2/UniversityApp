@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.juliaa","l":"App"},{"p":"models","l":"Course"},{"p":"models","l":"Student"},{"p":"com.juliaa.tests","l":"UniversityTests"},{"p":"com.juliaa.utils","l":"UniversityUtils"}];updateSearchResults();
